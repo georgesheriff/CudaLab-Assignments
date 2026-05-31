@@ -1,0 +1,20 @@
+{
+    "model": "KTH3DCNN",
+    "best_val_acc": 0.7041190424843649,
+    "best_epoch": 7,
+    "test_loss": 0.8905965728947456,
+    "test_acc": 0.6405009701887459,
+    "learnable_parameters": 3538150,
+    "total_training_time_sec": 367.02022218704224,
+    "inference_time_sec": 3.372696876525879,
+    "inference_ms_per_sample": 0.5949368277519631,
+    "inference_samples_per_sec": 1680.8507279312569,
+    "best_model_path": "runs_3dcnn/kth_3dcnn_20260531_110941/best_model.pt",
+    "last_model_path": "runs_3dcnn/kth_3dcnn_20260531_110941/last_model.pt",
+    "confusion_matrix_counts_csv": "runs_3dcnn/kth_3dcnn_20260531_110941/confusion_matrix_counts.csv",
+    "confusion_matrix_counts_png": "runs_3dcnn/kth_3dcnn_20260531_110941/confusion_matrix_counts.png",
+    "confusion_matrix_normalized_csv": "runs_3dcnn/kth_3dcnn_20260531_110941/confusion_matrix_normalized.csv",
+    "confusion_matrix_normalized_png": "runs_3dcnn/kth_3dcnn_20260531_110941/confusion_matrix_normalized.png",
+    "classification_report_txt": "runs_3dcnn/kth_3dcnn_20260531_110941/classification_report.txt",
+    "classification_report_csv": "runs_3dcnn/kth_3dcnn_20260531_110941/classification_report.csv"
+}

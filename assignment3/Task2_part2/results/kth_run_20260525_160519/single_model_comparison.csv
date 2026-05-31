@@ -1,0 +1,2 @@
+model,best_val_acc,test_acc,test_loss,learnable_parameters,total_training_time_sec,inference_time_sec,inference_ms_per_sample,inference_samples_per_sec
+CNNRNNActionModel,0.6987276256200129,0.6099841241841595,1.0086767496013793,2032422,636.3021524249925,2.019891880452633,0.3563047945762273,2806.58586474918

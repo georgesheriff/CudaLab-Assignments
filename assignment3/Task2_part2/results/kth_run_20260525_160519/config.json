@@ -1,0 +1,26 @@
+{
+    "model": "CNNRNNActionModel",
+    "dataset": "KTH Actions processed PNG frames",
+    "processed_root": "/home/user/elkhayata1/s1/KTH_preprocessed_replace_blank_stride_10",
+    "actions": [
+        "boxing",
+        "handclapping",
+        "handwaving",
+        "jogging",
+        "running",
+        "walking"
+    ],
+    "seq_len": 10,
+    "window_stride": 5,
+    "epochs": 20,
+    "batch_size": 32,
+    "lr": 0.0001,
+    "device": "cuda",
+    "use_amp": true,
+    "num_workers": 0,
+    "pin_memory": true,
+    "train_size": 17879,
+    "val_size": 4637,
+    "test_size": 5669,
+    "learnable_parameters": 2032422
+}

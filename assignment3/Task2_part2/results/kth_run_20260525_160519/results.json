@@ -1,0 +1,20 @@
+{
+    "best_val_acc": 0.6987276256200129,
+    "best_epoch": 6,
+    "test_loss": 1.0086767496013793,
+    "test_acc": 0.6099841241841595,
+    "learnable_parameters": 2032422,
+    "total_training_time_sec": 636.3021524249925,
+    "inference_time_sec": 2.019891880452633,
+    "inference_ms_per_sample": 0.3563047945762273,
+    "inference_samples_per_sec": 2806.58586474918,
+    "inference_samples": 5669,
+    "best_model_path": "runs/kth_run_20260525_160519/best_model.pt",
+    "last_model_path": "runs/kth_run_20260525_160519/last_model.pt",
+    "confusion_matrix_counts_csv": "runs/kth_run_20260525_160519/confusion_matrix_counts.csv",
+    "confusion_matrix_counts_png": "runs/kth_run_20260525_160519/confusion_matrix_counts.png",
+    "confusion_matrix_normalized_csv": "runs/kth_run_20260525_160519/confusion_matrix_normalized.csv",
+    "confusion_matrix_normalized_png": "runs/kth_run_20260525_160519/confusion_matrix_normalized.png",
+    "classification_report_txt": "runs/kth_run_20260525_160519/classification_report.txt",
+    "classification_report_csv": "runs/kth_run_20260525_160519/classification_report.csv"
+}
