@@ -1,0 +1,13 @@
+{
+    "beta": 0.001,
+    "best_epoch": 30,
+    "best_val_loss": 0.04334180647134781,
+    "final_train_loss": 0.04396208016506141,
+    "final_train_recons": 0.03687591049323649,
+    "final_train_kld": 7.086169465469808,
+    "final_val_loss": 0.04334180647134781,
+    "final_val_recons": 0.036005222901701925,
+    "final_val_kld": 7.336583618164062,
+    "train_time_sec": 487.4198200702667,
+    "out_dir": "afhq_beta_sweep/beta_1e-03"
+}
